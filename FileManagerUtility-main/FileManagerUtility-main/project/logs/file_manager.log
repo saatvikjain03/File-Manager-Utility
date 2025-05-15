@@ -1,0 +1,55 @@
+[2025-04-28 11:05:30] Created file: C:UsersASUSDesktopcollegeSubjectsSem4LAprojectfiles
+[2025-04-28 11:05:49] Created directory: files
+[2025-04-28 11:06:11] Created file: filesfile1.txt
+[2025-04-28 11:06:30] Deleted: filesfile1.txt
+[2025-04-28 11:07:40] Created file: files/fil1.txt
+[2025-04-29 09:59:04] Created file: fil2
+[2025-04-29 09:59:16] Deleted: fil2
+[2025-05-05 10:59:55] Auto-backup completed: files_backup_20250505_105955.tar.gz
+[2025-05-05 11:01:22] Restored from backup: files_backup_20250505_105955.tar.gz
+[2025-05-05 11:01:51] Restored from backup: files_backup_20250505_105955.tar.gz
+[2025-05-05 11:02:40] Auto-backup completed: files_backup_20250505_110240.tar.gz
+[2025-05-05 11:06:10] Restored from backup: files_backup_20250505_110240.tar.gz
+[2025-05-05 15:11:05] Restored from backup: files_backup_20250505_110240.tar.gz
+[2025-05-05 15:22:39] Auto-backup completed: files_backup_20250505_152239.tar.gz
+[2025-05-05 15:23:55] Restored from backup: files_backup_20250505_152239.tar.gz
+[2025-05-05 15:24:30] Auto-backup completed: files_backup_20250505_152430.tar.gz
+[2025-05-05 15:24:51] Restored from backup: files_backup_20250505_152430.tar.gz
+[2025-05-05 15:27:19] Auto-backup completed: files_backup_20250505_152719.tar.gz
+[2025-05-05 15:29:42] Auto-backup completed: files_backup_20250505_152942.tar.gz
+[2025-05-05 15:32:09] Restored from backup: files-backup_not_restored.tar.gz
+[2025-05-05 15:39:06] Restored from backup: files-backup_not_restored.tar.gz
+[2025-05-05 15:40:56] Auto-backup completed: files_backup_20250505_154056.tar.gz
+[2025-05-05 15:41:06] Auto-backup completed: files_backup_20250505_154106.tar.gz
+[2025-05-05 15:43:57] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-06 11:05:18] Restored from backup: files_backup_restored.tar.gz
+[2025-05-06 11:06:13] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-06 11:06:35] Restored from backup: files_backup_restored.tar.gz
+[2025-05-06 11:07:52] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-06 11:08:46] Restored from backup: files_backup_restored.tar.gz
+[2025-05-06 11:17:16] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-06 11:21:00] Restored from backup: files_backup_restored.tar.gz
+[2025-05-06 11:24:12] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-06 11:44:44] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-08 05:02:43] Renamed: files/file1.txt to file2.txt
+[2025-05-08 05:03:04] Renamed: file2.txt to files/file1.txt
+[2025-05-08 05:03:46] Backup created: files_backup_20250508_050346.tar.gz
+[2025-05-08 05:05:47] Restored from backup: files_backup_restored.tar.gz
+[2025-05-08 05:08:30] Restored from backup: files_backup_restored.tar.gz
+[2025-05-08 05:15:29] Restored from backup: files_backup_restored.tar.gz
+[2025-05-08 05:15:54] Deleted: files/files
+[2025-05-08 05:17:14] Restored from backup: files_backup_restored.tar.gz
+[2025-05-08 05:26:51] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-08 05:27:26] Deleted: ./project/files
+[2025-05-08 05:35:45] Deleted: files/files
+[2025-05-08 05:36:04] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-08 05:41:19] Deleted: files/files
+[2025-05-08 05:41:48] Restored from backup: files_backup_not_restored.tar.gz
+[2025-05-08 05:42:15] Changed permissions of files/file1.txt to 
+[2025-05-08 05:44:50] Deleted: files/files
+[2025-05-08 05:44:59] Renamed: file1.txt to file2.txt
+[2025-05-08 05:45:24] Copied: files/file1.txt to files/file2.txt
+[2025-05-08 05:45:34] Deleted: files/file2.txt
+[2025-05-08 05:45:51] Copied: files/file1.txt to files/file2.txt
+[2025-05-08 05:46:02] Archived: files/file2.txt
+[2025-05-08 05:46:19] Unarchived: files/file2.txt.tar.gz
